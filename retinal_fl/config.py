@@ -48,7 +48,7 @@ STD  = [0.229, 0.224, 0.225]
 # ─────────────────────────── MODEL ───────────────────────────
 # RETFound  — ViT-Large/16 pretrained on 1.6 M retinal images
 # Weights auto-downloaded from HuggingFace on first run.
-RETFOUND_HF_REPO  = "rmanzanedo/RETFound_MAE"
+RETFOUND_HF_REPO = "YukunZhou/RETFound_mae_natureCFP"
 RETFOUND_FILENAME = "RETFound_MAE_weights.pth"
 LORA_RANK = 8
 LORA_ALPHA = 16
